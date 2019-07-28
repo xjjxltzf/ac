@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ac.iml" filepath="$PROJECT_DIR$/.idea/ac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acCommon/acCommon.iml" filepath="$PROJECT_DIR$/acCommon/acCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acServer/acServer.iml" filepath="$PROJECT_DIR$/acServer/acServer.iml" />
+    </modules>
+  </component>
+</project>
